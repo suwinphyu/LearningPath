@@ -1,6 +1,6 @@
 ### Test Automation
   
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="100" height="100">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="300" height="300">
 
 #### 𝐓𝐞𝐬𝐭 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 လုပ်ဆောင်ရန်အတွက် စဉ်းစားသင့်သည့် အချက်များ
 * ဘာကြောင့် test automation ကိုစတင် အသုံးပြုချင်တာလဲ 
@@ -20,7 +20,9 @@ Developer – development ပိုင်းမှာ ကျွမ်းကျ�
 Manual Tester – Testing logic and thinking ကို နားလည်ပေမယ့် test script ရေးသားဖို့အချိန်တစ်ခု လိုအပ်ပါတယ်။ New features တွေကို sprint အတွင်း အချိန်မီ testing လုပ်ရန်သာမက old features တွေအတွက်  test automation ရေးသားဖို့ အချိန်လုံလောက်နိုင်ပါ့မလား 
 Developer ကော Manual Tester တွေပါ current tasks တွေကို လျော့ချပြီး automation အတွက် အချိန်တွေ လိုအပ်တဲ့ resources တွေပေးမယ်ဆိုလည်း ဒါဟာ အကောင်းဆုံးနည်းလမ်းလို့တော့ မဆိုလိုနိုင်ပါဘူး  
 ```
-𝐓𝐞𝐬𝐭 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 သည်လည်းပဲ 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 လုပ်ငန်းစဉ် တစ်ခုလိုပါပဲ. . 𝐓𝐢𝐦𝐞 𝐚𝐧𝐝 𝐒𝐤𝐢𝐥𝐥 လိုအပ်ပါတယ် အချိန်ရှိတဲ့ အခါမှသာ လုပ်ဆောင်မယ့် side task တခုအနေနဲ့ အသုံးပြုမယ်ဆိုရင်တော့ ခဏပဲ စတင်ပြီး ရပ်ဆိုင်းသွားပါလိမ့်မယ် 
+𝐓𝐞𝐬𝐭 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 သည်လည်းပဲ 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 လုပ်ငန်းစဉ် တစ်ခုလိုပါပဲ. . 
+𝐓𝐢𝐦𝐞 𝐚𝐧𝐝 𝐒𝐤𝐢𝐥𝐥 လိုအပ်ပါတယ် အချိန်ရှိတဲ့ အခါမှသာ လုပ်ဆောင်မယ့် 
+side task တခုအနေနဲ့ အသုံးပြုမယ်ဆိုရင်တော့ ခဏပဲ စတင်ပြီး ရပ်ဆိုင်းသွားပါလိမ့်မယ် 
 
 ```
 ဒါကြောင့်မို့ Test Automation အပိုင်းကို စိတ်ဝင်စားတဲ့သူ ဒါမှမဟုတ် automation engineer နဲ့ပူးပေါင်းပြီး စတင်လုပ်ဆောင်သင့်ပါတယ် 
