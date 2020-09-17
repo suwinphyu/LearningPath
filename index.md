@@ -1,6 +1,6 @@
 ### Test Automation
   
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="500" height="300">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="680" height="300">
 
 #### 𝐓𝐞𝐬𝐭 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 လုပ်ဆောင်ရန်အတွက် စဉ်းစားသင့်သည့် အချက်များ
 * ဘာကြောင့် test automation ကိုစတင် အသုံးပြုချင်တာလဲ 
