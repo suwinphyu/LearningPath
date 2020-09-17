@@ -1,6 +1,6 @@
 Text-box field တစ်ခုအတွက် testing လုပ်ရာတွင် ယေဘုယျ အသုံးပြုသော Sample Checklist ကိုဖော်ပြပေးထားပါတယ်၊ mandatory field ဟုတ်/မဟုတ် ၊ editable လုပ်နိုင်/မလုပ်နိုင် ၊ Placeholder, help-text , inputted values , blank case, maximum, minimum characters စသည့် အချက်များပါဝင်ပါတယ်။
 
-### 𝐒𝐚𝐦𝐩𝐥𝐞 𝐜𝐡𝐞𝐜𝐤𝐥𝐢𝐬𝐭𝐬 𝐟𝐨𝐫 𝐓𝐞𝐱𝐭-𝐛𝐨𝐱 𝐟𝐢𝐞𝐥𝐝
+#### Sample checklists for Text-box fields
 1. Verify the mandatory condition for required fields
 2. Verify whether it's an editable/non-editable text box
 3. Verify the help-text below the text field wherever applicable
