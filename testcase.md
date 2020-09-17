@@ -1,5 +1,6 @@
 Testing လုပ်ရမယ့် application အတွက် Test coverage (overall test plan) အရ မည့်သည့်အတိုင်းအတာထိ testing လုပ်ဆောင်ထားတယ်ဆိုတာကို အထောက်အထားနဲ့ ဖော်ပြနိုင်ဖို့ ၊ နောင်တချိန် retesting လုပ်တဲ့အခါမှာလည်း ပြန်လည်အသုံးပြုနိုင်အောင် အတွက် test case ကို ရေးသားကြတယ်
-Don't Assume : Test Case ရေးသားရာတွင် application ၏ feature/functionality လုပ်ဆောင်ချက်တွေကို မိမိ ထင်မြင်ယူဆချက်အတိုင်း မရေးသားမိဖို့အရေးကြီးပါတယ်။ Software Requirement Specification (SRS) documents အတိုင်း အတိအကျ ရေးသားသင့်ပါတယ်။ အကယ်၍ requirement မပြည့်စုံပါက checklist တွေကို အကြံပြုနိုင်ပါတယ်။
+
+Test Case ရေးသားရာတွင် application ၏ feature/functionality လုပ်ဆောင်ချက်တွေကို မိမိ ထင်မြင်ယူဆချက်အတိုင်း မရေးသားမိဖို့အရေးကြီးပါတယ်။ Software Requirement Specification (SRS) documents အတိုင်း အတိအကျ ရေးသားသင့်ပါတယ်။ အကယ်၍ requirement မပြည့်စုံပါက checklist တွေကို အကြံပြုနိုင်ပါတယ်။
 Testcase ID, Test Description, Pre-condition, Steps to reproduce,Expected Result, Actual Result, Test Status, Test Data, Remarks,Test Executed by (Tester name),Test Execution Date စသည့် fields တွေကတော့ Test Case ရေးသားရာမှာ ယေဘုယျ ပါဝင်ကြတယ်
 
 ###### Pre-condition:
@@ -8,7 +9,7 @@ Testcase execution မလုပ်ခင်မှာ လိုအပ်တဲ့
 ###### Test Description:
 Description ရေးသားရာတွင် မိမိ အဆင်ပြေသလို ပုံစံဖြင့် ရိုးရှင်းပြီး နားလည်လွယ်အောင် ရေးသားနိုင်သည်။ အောက်ပါ Basic Format of Test Case Description ပုံစံဖြင့်လည်း ဖော်ပြနိုင်သည်။ 
 ```
-"Verify + What [dialog box, name] +When [condition] + How [action/place]"
+Verify + What [dialog box, name] +When [condition] + How [action/place]
 ```
 ###### Example:
 1. Verify that user can send a friend request to any user by visiting their page
@@ -24,8 +25,8 @@ Actual result နဲ့ expected result ကိုက်ညီမှုမရှ�
 Testing လုပ်ရန် functionality အရအဆင်သင့်မဖြစ်သေးသော အခြေအနေတွင်  Not Available ၊   QA မစစ်ရသေးသော အခြေအနေကို Not Yet Tested စသည်ဖြင့် သတ်မှတ်နိုင်သည်။
 
 Test case management tool တွေကို အသုံးပြုပြီး ရေးသားနိုင်ပါတယ်
-https://www.guru99.com/top-20-test-management-tools.html - automatic!
+https://www.guru99.com/top-20-test-management-tools.html 
 
 
-Sample Test case format ကိုအောက်ပါ link တွင် လေ့လာနိုင်ပါတယ်
-[Sample Test Case](https://github.com/suwinphyu/readLists/blob/gh-pages/Sample%20Test%20Case.xlsx)
+Sample Test case format ကို [Sample Test Case](https://github.com/suwinphyu/readLists/blob/gh-pages/Sample%20Test%20Case.xlsx) တွင် လေ့လာနိုင်ပါတယ်
+
