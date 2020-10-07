@@ -1,4 +1,4 @@
-### 𝗘𝗹𝗲𝗺𝗲𝗻𝘁 𝗟𝗼𝗰𝗮𝘁𝗼𝗿 𝗳𝗼𝗿 𝗧𝗲𝘀𝘁 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
+### Element Locator for Test Automation
 
 Element locator ကိုလေ့လာဖို့အတွက် HTML,CSS,JavaScript ကို အခြေခံသိရှိထားရပါမယ်။ Manually အနေနဲ့ web page တစ်ခုကို scroll ဆွဲတာ၊  button click လိုက်တာ၊ keyword တစ်ခုခုရိုက်ထည့်ပြီး search လုပ်တာမျိုးက လွယ်ကူပေမယ့် Test Automation အတွက် DOM (Document Object Model) တွေကို တိတိကျကျရှာဖွေနိုင်ဖို့အတွက် locator တွေနဲ့ ညွှန်းဖို့လိုအပ်ပါတယ်။
 အောက်ဖော်ပြပါ Locator types  တွေထဲက တစ်နည်းနည်းကို အသုံးပြုပြီး ရေးသားနိုင်ပါတယ်။ 
