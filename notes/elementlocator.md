@@ -16,23 +16,29 @@ Element locator ကိုလေ့လာဖို့အတွက် HTML,CSS,Jav
 
 #### ID
 Search box အတွက် test script ရေးသားဖို့ ID ကိုအသုံးပြုနိုင်တယ်။ အလွယ်ဆုံးနည်းလမ်းဖြစ်ပြီး unique လည်းဖြစ်တယ်
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="680" height="300">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/locator1.png" width="680" height="300">
+
 #### Name
 တကယ်လို့ Element မှာ ID မပါဘူးဆိုရင် Name ကိုရှာကြည့်ပါ။ Name attribute သည်လည်း Unique ဖြစ်တဲ့အတွက် အသုံးပြုရလွယ်ကူတယ်
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="680" height="300">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/locator2.png" width="680" height="300">
+
 #### Class Name
 Classname ရှာရာတွင် class တစ်ခုကို multiple elements တွေ ခေါ်သုံးတာမျိုးရှိတတ်သဖြင့် သေချာစီစစ်ပြီးမှ သုံးသင့်ပါတယ်။
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="680" height="300">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/locator3.png" width="680" height="300">
+
 #### CSS Selector
 Chrome Dev tool ကိုအသုံးပြုပြီး copy selector လုပ်နိုင်ပါတယ်။
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="680" height="300">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/locator4.png" width="680" height="300">
+
 #### XPath
 Chrome Dev tool ကိုအသုံးပြုပြီး copy xpath လုပ်နိုင်ပါတယ်။
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="680" height="300">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/locator5.png" width="680" height="300">
+
 #### Link Text and Partial Link Text
 Partial Link Text ကို နောက်screenshot တွင်ဖော်ပြထားပါတယ်
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="680" height="300">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/locator6.png" width="680" height="300">
+                                                                                                           
 #### Tag Name
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/testautomation.png" width="680" height="300">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/locator7.png" width="680" height="300">
 
 Resources : https://testautomationu.applitools.com/
