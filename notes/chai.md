@@ -28,21 +28,21 @@ assert (https://www.chaijs.com/guide/styles/#assert ) ကတော့ TDD style 
 𝚊𝚜𝚜𝚎𝚛𝚝.𝚎𝚚𝚞𝚊𝚕(𝚊𝚌𝚝𝚞𝚊𝚕_𝚊𝚗𝚜𝚠𝚎𝚛,𝚎𝚡𝚙𝚎𝚌𝚝𝚎𝚍_𝚊𝚗𝚜𝚠𝚎𝚛);
 ```
 
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai1.png" width="700" height="400">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai1.png" width="800" height="400">
 
 Chai ကို အသုံးပြုဖို့အတွက် Node.js (https://nodejs.org/en/download/ ) ကိုအရင် install လုပ်ပေးရပါမယ်။ ပြီးရင် npm install chai -save-dev ဆိုပြီး chai ကို install လုပ်ဆောင်နိုင်ပါတယ်။ မိမိကြိုက်နှစ်သက်ရာ IDE ကို အသုံးပြုပြီး chai install လုပ်ထားတဲ့ project folder ထဲမှာ test folder တစ်ခုဆောက်ထားပြီး test script js file ကို ရေးပါ။
 
 
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai2.png" width="700" height="400">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai2.jpg" width="800" height="400">
 
 node test/filename.js ဆိုပြီး run လိုက်တဲ့အခါ assertion error မတက်ရင် PASS တယ်လို့သတ်မှတ်လို့ရပါတယ်။
 
 
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai3.png" width="700" height="400">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai3.png" width="800" height="400">
 
 expected result နဲ့ actual result မတူညီရင် assertion error ပြပါတယ်။ ဥပမာ မှာဆိုရင် expected result အနေနဲ့ object type ပါ ။ တကယ့် actual value က string type ဖြစ်နေတဲ့အတွက် assertion error ပြတယ်။
 
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai4.png" width="700" height="400">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai4.png" width="800" height="400">
 
 ```
 var expect = require('chai').expect;
@@ -57,7 +57,7 @@ expect(beverages).to.have.property('tea').with.lengthOf(3);
 ```
 
 
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai5.png" width="700" height="400">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai5.png" width="800" height="400">
 
 ```
 var actual_answer = 43;
@@ -66,7 +66,7 @@ expect(actual_answer).to.equal(expected_answer);
 expect(actual_answer,"!!!Actual answer and expected one are different").to.equal(43); 
 ```
 
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai6.png" width="700" height="400">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai6.jpg" width="800" height="400">
 
 ```
 var should = require('chai').should();
@@ -85,7 +85,7 @@ actual_answer.should.to.equals(expected_answer);
 actual_answer.should.to.equals(42,"!!!Actual answer and expected one are different"
 ```
 
-<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai7.png" width="700" height="400">
+<img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai7.jpg" width="800" height="400">
 
 ```
 var assert = require('chai').assert;
