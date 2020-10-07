@@ -18,7 +18,7 @@ cypress folder ထဲက integration folder အောက်မှာ test.spec.j
 <img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/cypress3.png" width="650" height="300">
 
 
-Mocha မှာပါတဲ့ describe(), it() function တွေနဲ့ စတင် ပြီးtest script ရေးသားနိုင်ပါတယ်။ Mocha အကြောင်း အကြမ်းဖျဉ်းသိလိုပါက https://www.facebook.com/118132486588395/posts/136785401389770/?d=n တွင်လေ့လာနိုင်ပါတယ်။ cypress documentation( https://docs.cypress.io/api/api/table-of-contents.html ) တွင်လည်း လေ့လာနိုင်ပါတယ်။
+Mocha မှာပါတဲ့ describe(), it() function တွေနဲ့ စတင် ပြီးtest script ရေးသားနိုင်ပါတယ်။ Mocha အကြောင်း အကြမ်းဖျဉ်းသိလိုပါက https://www.facebook.com/118132486588395/posts/136785401389770/?d=n တွင်လေ့လာနိုင်ပါတယ်။ cypress documentation(https://docs.cypress.io/api/api/table-of-contents.html) တွင်လည်း လေ့လာနိုင်ပါတယ်။
 
 <img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/cypress4.png" width="650" height="300">
 
