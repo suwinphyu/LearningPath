@@ -43,6 +43,7 @@ node test/filename.js ဆိုပြီး run လိုက်တဲ့အခ�
 expected result နဲ့ actual result မတူညီရင် assertion error ပြပါတယ်။ ဥပမာ မှာဆိုရင် expected result အနေနဲ့ object type ပါ ။ တကယ့် actual value က string type ဖြစ်နေတဲ့အတွက် assertion error ပြတယ်။
 
 <img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai4.png" width="700" height="400">
+
 ```
 var expect = require('chai').expect;
 
@@ -55,14 +56,18 @@ var beverages = {tea : ['chai','mocha','oolong','expresso']};
 expect(beverages).to.have.property('tea').with.lengthOf(3);
 ```
 
+
 <img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai5.png" width="700" height="400">
+
 ```
 var actual_answer = 43;
 var expected_answer = 43;
 expect(actual_answer).to.equal(expected_answer);
 expect(actual_answer,"!!!Actual answer and expected one are different").to.equal(43); 
 ```
+
 <img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai6.png" width="700" height="400">
+
 ```
 var should = require('chai').should();
 
@@ -81,6 +86,7 @@ actual_answer.should.to.equals(42,"!!!Actual answer and expected one are differe
 ```
 
 <img src="https://github.com/suwinphyu/readLists/blob/gh-pages/images/chai7.png" width="700" height="400">
+
 ```
 var assert = require('chai').assert;
 
