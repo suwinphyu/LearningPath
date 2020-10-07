@@ -103,4 +103,6 @@ var actual_answer = 43;
 var expected_answer = 43;
 assert.equal(actual_answer,expected_answer);
 assert.equal(actual_answer,42,'!!!Actual answer and expected one are different');
+
+Resources : https://testautomationu.applitools.com/
 ```
