@@ -10,6 +10,8 @@ Element locator ကိုလေ့လာဖို့အတွက် HTML,CSS,Jav
 7. TagName
 နမူနာ အနေနဲ့ Chrome dev tool (https://developers.google.com/web/tools/chrome-devtools/) ကို အသုံးပြုပြီးတော့ https://duckduckgo.com/ အတွက် Locator ရှာကြည့်ရအောင်။ အသေးစိတ်ကိုတော့ screenshots လေးတွေမှာ လေ့လာကြည့်ပေးကြပါနော်။
 
+
+
 1. ID
 Search box အတွက် test script ရေးသားဖို့ ID ကိုအသုံးပြုနိုင်တယ်။ အလွယ်ဆုံးနည်းလမ်းဖြစ်ပြီး unique လည်းဖြစ်တယ်
 
