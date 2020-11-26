@@ -5,9 +5,8 @@ https://www.toolsqa.com/testng/install-testng/
 
 Chrome WebDriver အတွက် https://chromedriver.chromium.org/downloads
 
-####TestNG new repository link
-Name: TestNG (depends on the user)
-Location: https://dl.bintray.com/testng-team/testng-eclipse-release/6.14.3/
+#### TestNG new repository link
+Name: TestNG (depends on the user), Location: https://dl.bintray.com/testng-team/testng-eclipse-release/6.14.3/
 
 Test case တွေမှာ pre-conditions ၊ post-conditions တွေထည့်ရေးရတာမျိုးရှိသလို TestNG မှာလည်း Annotation သုံးပြီး pre-conditions ဆိုရင် @Before ၊ post-conditions ဆိုရင် @After နဲ့အစပြုပြီးရေးနိုင်ပါတယ်။ Test Steps တွေအတွက်တော့ @Test နဲ့ရေးသားနိုင်ပါတယ်။
 
